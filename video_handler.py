@@ -1,5 +1,5 @@
 def llm_model_video(user_text, video_path):
-    genai.configure(api_key="AIzaSyA1OEqsguS7WhhWY9ERqpTZRWNyq14oWFk")
+    genai.configure(api_key="")
     model = genai.GenerativeModel(model_name='gemini-1.5-pro')
     
     prompt1 = """
