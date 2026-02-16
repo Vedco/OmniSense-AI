@@ -2,9 +2,9 @@ from setuptools import find_packages, setup
 
 setup(name="GenAI Project",
       version="0.0.0",
-      author="Ayush Shaurya Jha",
-      author_email="shauryasphinx@gmail.com",
+      author="Ved Bhatt",
+      author_email="vedbhatt65@gmail.com",
       description="A project to explore and implement various AI concepts",
-      url="https://github.com/jhaayush2004",
+      url="https://github.com/Vedco",
       packages=find_packages()
 )
