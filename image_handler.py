@@ -1,5 +1,5 @@
 def llm_model_image(user_text,path):
-    genai.configure(api_key="AIzaSyDqTJiwqE49Sw4xxi44XZBgmlJ5qCHyFtM")
+    genai.configure(api_key="")
     model = genai.GenerativeModel(model_name='gemini-1.5-pro')
     prompt1="""
     You are a helpful assistant named 'ShauryaNova' developed by  Ayush Shaurya Jha. You are
